@@ -1,7 +1,7 @@
 name: cool_animations
 description: Flutter package for cool animations like favourite button, like button etc.
 version: 0.0.1
-homepage: www.tanmoykarmakar.in
+homepage: https://github.com/tanmoy27112000/cool_animations
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

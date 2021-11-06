@@ -12,14 +12,12 @@ Maintainer : [Tanmoy Karmakar](https://tanmoykarmakar.in)<br>
 <!-- [![pub](https://img.shields.io/pub/v/flash.svg?style=flat)](https://pub.dev/packages/flash) -->
 
 
-This library allows you easily implement bottom navigation with many customizable fields to make it your own
-<!-- multiple types of fields `text` , `checkbox`, `multiselect` , `datetime` , `date` , `time` , and `file upload`.
-This package also provides additional remark options. -->
+This library allows you easily implement animated icons with amazing curves.
 
 It has been written **100% in Dart**. ❤️
 
 <p>
-  <img width="205px" alt="Example" src="https://i.imgur.com/3uxKgfr.mp4"/>
+  <img width="205px" alt="Example" src="https://i.imgur.com/HH1w3cI.mp4"/>
 </p>
 
 
