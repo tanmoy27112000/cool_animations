@@ -49,7 +49,7 @@ packages:
       path: "/Users/tanmoykarmakar/Documents/flutter apps/flutter packages/cool_animations"
       relative: false
     source: path
-    version: "0.0.1"
+    version: "0.0.2"
   cupertino_icons:
     dependency: "direct main"
     description:
