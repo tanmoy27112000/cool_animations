@@ -1,4 +1,4 @@
-# Simple Form Builder
+# Cool Animations
 [![pub package](https://img.shields.io/pub/v/simple_form_builder.svg)](https://pub.dev/packages/simple_form_builder)
 [![GitHub Stars](https://img.shields.io/github/stars/tanmoy27112000/SimpleFormBuilder.svg?logo=github)](https://pub.dev/packages/simple_form_builder)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green)](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green)
@@ -27,7 +27,7 @@ It has been written **100% in Dart**. ❤️
 Add the following to your `pubspec.yaml` file:
 ```yaml
 dependencies:
-   cool_animations: ^0.0.1
+   cool_animations: ^0.0.3
 ```
 
 <br>
